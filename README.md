@@ -2,4 +2,5 @@
 A detection system built using ML to detect diabetes.
 
 We are using simple models currently.
+
 PS : This is just for understanding purpose.
